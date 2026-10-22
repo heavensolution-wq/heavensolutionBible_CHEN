@@ -1,4 +1,4 @@
-const CACHE = 'bible-unified-v14';
+const CACHE = 'bible-unified-v16';
 const ASSETS = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './icon-180.png', './icon-maskable-512.png'

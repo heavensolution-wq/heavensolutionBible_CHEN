@@ -1,7 +1,7 @@
 {
-  "name": "성경 · 요계 암송 — 개역한글 읽기·통독·요한계시록 암기",
-  "short_name": "성경·요계",
-  "description": "개역한글 성경 읽기·통독 플랜과 요한계시록 암기 훈련(빈칸·장절·백지시험·망각곡선 복습 플랜·천제고 모의고사)",
+  "name": "圣经 · 하나님의 사랑 — 中文·English·한글 성경, 요한계시록 암송",
+  "short_name": "圣经",
+  "description": "新标点和合本·World English Bible·개역한글 성경 읽기와 요한계시록 암송·시험",
   "id": "./?app=bible-unified",
   "start_url": "./index.html",
   "scope": "./",
